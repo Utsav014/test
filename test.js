@@ -1,2 +1,7 @@
 console.log("Pasro Gay");
-console.log("fasfasfas");
+console.log("paro");
+console.log("paro");
+console.log("paro");
+console.log("paro");
+console.log("paro");
+console.log("paro");
