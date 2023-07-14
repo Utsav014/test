@@ -6,19 +6,19 @@ header {
     background-color: orangered;
     color: #fff;
 }
-.center{
+h3{
+    text-align: center;
+}
+.register{
     font-family: 'Times New Roman', Times, serif;
     position: absolute;
-    top: 50%;/*change garna parxa */
+     top: 50%; /*change garna parxa */
     left: 50%; /*change garna parxa */
     border: 1px;
     border-style: solid;
     border-color: black;
-    padding: 20px 20px;
+    padding: 10px 30px 10px 50px;
 }
-.center h3{
-    text-align: center;
-}
-div .button{
+.button{
     text-align: center;
 }
