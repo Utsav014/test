@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+  }
+  
+.center{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 35%;/*change garna parxa */
+    left: 45%; /*change garna parxa */
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 20px 20px;
+}
+.center h3{
+    text-align: center;
+}
+div .button{
+    text-align: center;
+}
