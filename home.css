@@ -28,6 +28,12 @@
     color: #fff;
     padding: 20px;
   }
+  #logo{
+    position: absolute;
+    width: 250px;
+    height: auto;
+
+  }
   
   nav ul {
     list-style: none;
@@ -46,8 +52,7 @@
   
   /* Banner */
   #banner img {
-    width: 900px;
-    height: 500px;
+    width: 100%;
     height: auto;
   }
   
