@@ -35,7 +35,22 @@
     height: auto;
 
   }
+<<<<<<< HEAD
    
+=======
+  .cat1{
+    float: left;
+  }
+  #li1{
+    float: right;
+  }
+  #li2{
+    float: right;
+  }
+  #li3{
+    float: right;
+  }
+>>>>>>> 78ff181f18c8b37af9a2e152287521331c4d6abe
   nav ul {
     list-style: none;
     margin: 0;
