@@ -34,7 +34,18 @@
     height: auto;
 
   }
-  
+  .cat1{
+    float: left;
+  }
+  #li1{
+    float: right;
+  }
+  #li2{
+    float: right;
+  }
+  #li3{
+    float: right;
+  }
   nav ul {
     list-style: none;
     margin: 0;
